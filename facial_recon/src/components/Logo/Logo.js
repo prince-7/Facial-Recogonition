@@ -1,7 +1,7 @@
 import React from 'react';
 import Tilt from 'react-tilt';
 import './Logo.css';
-import coding from './coding.png';
+import coding from './facetruth-header.jpg';
 const Logo = () =>{
 	return(
 		<div className = 'ma4 mt0 center'>

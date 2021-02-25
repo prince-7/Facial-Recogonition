@@ -1,5 +1,5 @@
 import React from 'react';
-
+import Notifications from '../../components/Notifications/Notifications';
 const ImageLinkForm = ({onInputChange, onButtonSubmit}) =>{
 	return(
 		<div>
